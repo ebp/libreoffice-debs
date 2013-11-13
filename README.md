@@ -11,9 +11,6 @@ Installation
 git clone git://github.com/ebp/libreoffice-debs.git /usr/local/src/libreoffice-debs
 cd /usr/local/src/libreoffice-debs
 
-# generate a Packages file to use as an apt repository
-./update-apt-repo.sh
-
 # add to apt sources
 echo 'deb file:/usr/local/src/libreoffice-debs ./' | sudo tee -a /etc/apt/sources.list
 
@@ -32,11 +29,20 @@ sudo apt-get install libgnome-vfsmm-2.6-dev
 # fetch the source - GitHub mirror, fast
 git clone git://github.com/LibreOffice/core.git libreoffice-core
 # or: fetch the source - official, slow
-git clone git://anongit.freedesktop.org/libreoffice/core libreoffice-core
+# git clone git://anongit.freedesktop.org/libreoffice/core libreoffice-core
 
 cd libreoffice-core
 
-# run the build script
-# ./autogen.sh --enable-epm --with-package-format=deb --without-doxygen
-./autogen.sh --enable-epm --with-package-format=deb --with-distro=LibreOfficeLinux
+# run the configure script - Ubuntu's doxygen is too old
+./autogen.sh --with-distro=LibreOfficeLinux --without-doxygen --disable-kde --enable-epm --with-package-format=deb
+
+# build
+make
+```
+
+The generated debs versioned `alpha1-1` won't properly install, so change them,
+then regenerate `Packages`:
+```sh
+./reversion-debs.sh
+./update-packages.sh
 ```
