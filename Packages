@@ -1,0 +1,754 @@
+Package: libreofficedev4.2
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 1360
+Depends: libreofficedev4.2-ure (>= 4.2.0.0.alpha1), libreofficedev4.2-ure (<= 4.2.0.0.alpha1), lodevbasis4.2-core01 (>= 4.2.0.0.alpha1), lodevbasis4.2-core01 (<= 4.2.0.0.alpha1), lodevbasis4.2-core02 (>= 4.2.0.0.alpha1), lodevbasis4.2-core02 (<= 4.2.0.0.alpha1), lodevbasis4.2-core03 (>= 4.2.0.0.alpha1), lodevbasis4.2-core03 (<= 4.2.0.0.alpha1), lodevbasis4.2-core04 (>= 4.2.0.0.alpha1), lodevbasis4.2-core04 (<= 4.2.0.0.alpha1), lodevbasis4.2-core05 (>= 4.2.0.0.alpha1), lodevbasis4.2-core05 (<= 4.2.0.0.alpha1), lodevbasis4.2-core06 (>= 4.2.0.0.alpha1), lodevbasis4.2-core06 (<= 4.2.0.0.alpha1), lodevbasis4.2-core07 (>= 4.2.0.0.alpha1), lodevbasis4.2-core07 (<= 4.2.0.0.alpha1), lodevbasis4.2-images (>= 4.2.0.0.alpha1), lodevbasis4.2-images (<= 4.2.0.0.alpha1)
+Filename: debs/libreofficedev4.2_4.2.0.0.alpha1_amd64.deb
+Size: 339038
+MD5sum: 5111d2d78ab4b9e6ecd527b63e43b4ff
+SHA1: 6a850b8d9172dc800a4e368dbacaae7502a0e2f9
+SHA256: 77d680affd3e38469a8bff452c073581c009b960884d456704fa443643e15140
+Description: Brand module for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Brand module for LibreOfficeDev 4.2
+
+Package: libreofficedev4.2-base
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 28
+Depends: libreofficedev4.2 (>= 4.2.0.0.alpha1), libreofficedev4.2 (<= 4.2.0.0.alpha1), lodevbasis4.2-base (>= 4.2.0.0.alpha1), lodevbasis4.2-base (<= 4.2.0.0.alpha1)
+Filename: debs/libreofficedev4.2-base_4.2.0.0.alpha1_amd64.deb
+Size: 792
+MD5sum: c4d99bfa61621b405cc78a7abfcf8932
+SHA1: e9a2497de17fdc55416a465f822b780ab699dccd
+SHA256: 45fc27438d719b4e0621aa2b9931fa0a9b6b7fa06fb769ffbb4ff339dbe9439c
+Description: Base brand module for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Base brand module for LibreOfficeDev 4.2
+
+Package: libreofficedev4.2-calc
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 28
+Depends: libreofficedev4.2 (>= 4.2.0.0.alpha1), libreofficedev4.2 (<= 4.2.0.0.alpha1), lodevbasis4.2-calc (>= 4.2.0.0.alpha1), lodevbasis4.2-calc (<= 4.2.0.0.alpha1)
+Filename: debs/libreofficedev4.2-calc_4.2.0.0.alpha1_amd64.deb
+Size: 794
+MD5sum: 837471fe037d6985bc24ec311470cf1c
+SHA1: 26f0d8a6bc37d2429d00a6e9c6ac7cb2fc1a36d9
+SHA256: c31604dbcac310ebe57fd4cf2193434fcac5a4df3b008dbfa810685124242264
+Description: Calc brand module for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Calc brand module for LibreOfficeDev 4.2
+
+Package: libreofficedev4.2-debian-menus
+Version: 4.2.0-0
+Architecture: all
+Maintainer: LibreOffice
+Installed-Size: 32080
+Filename: debs/libreofficedev4.2-debian-menus_4.2.0-0_all.deb
+Size: 6423800
+MD5sum: b642d37025c45dd5956b9ad937a71805
+SHA1: 3be86d9309c432e5c988b79dd88c5fadcdb59d94
+SHA256: f180c20a6c2e3bec6178813e9042af564b081776009c2cbfdb57e1805a1bf709
+Description: 4.2 desktop integration
+
+Package: libreofficedev4.2-dict-en
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 24984
+Depends: libreofficedev4.2-ure (>= 4.2.0.0.alpha1), libreofficedev4.2-ure (<= 4.2.0.0.alpha1), lodevbasis4.2-core01 (>= 4.2.0.0.alpha1), lodevbasis4.2-core01 (<= 4.2.0.0.alpha1), lodevbasis4.2-core02 (>= 4.2.0.0.alpha1), lodevbasis4.2-core02 (<= 4.2.0.0.alpha1), lodevbasis4.2-core03 (>= 4.2.0.0.alpha1), lodevbasis4.2-core03 (<= 4.2.0.0.alpha1), lodevbasis4.2-core04 (>= 4.2.0.0.alpha1), lodevbasis4.2-core04 (<= 4.2.0.0.alpha1), lodevbasis4.2-core05 (>= 4.2.0.0.alpha1), lodevbasis4.2-core05 (<= 4.2.0.0.alpha1), lodevbasis4.2-core06 (>= 4.2.0.0.alpha1), lodevbasis4.2-core06 (<= 4.2.0.0.alpha1), lodevbasis4.2-core07 (>= 4.2.0.0.alpha1), lodevbasis4.2-core07 (<= 4.2.0.0.alpha1), libreofficedev4.2 (>= 4.2.0.0.alpha1), libreofficedev4.2 (<= 4.2.0.0.alpha1)
+Filename: debs/libreofficedev4.2-dict-en_4.2.0.0.alpha1_amd64.deb
+Size: 6503836
+MD5sum: d59e65504554d289c3c433d6122af7bf
+SHA1: e66ce879c50194ddf91e8d856e67a521267092ee
+SHA256: 945dfff325bce9233069dd8782d0bf630dafd2027214a891a2604417c17488f6
+Description: En dictionary for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ En dictionary for LibreOfficeDev 4.2
+
+Package: libreofficedev4.2-dict-es
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 4108
+Depends: libreofficedev4.2-ure (>= 4.2.0.0.alpha1), libreofficedev4.2-ure (<= 4.2.0.0.alpha1), lodevbasis4.2-core01 (>= 4.2.0.0.alpha1), lodevbasis4.2-core01 (<= 4.2.0.0.alpha1), lodevbasis4.2-core02 (>= 4.2.0.0.alpha1), lodevbasis4.2-core02 (<= 4.2.0.0.alpha1), lodevbasis4.2-core03 (>= 4.2.0.0.alpha1), lodevbasis4.2-core03 (<= 4.2.0.0.alpha1), lodevbasis4.2-core04 (>= 4.2.0.0.alpha1), lodevbasis4.2-core04 (<= 4.2.0.0.alpha1), lodevbasis4.2-core05 (>= 4.2.0.0.alpha1), lodevbasis4.2-core05 (<= 4.2.0.0.alpha1), lodevbasis4.2-core06 (>= 4.2.0.0.alpha1), lodevbasis4.2-core06 (<= 4.2.0.0.alpha1), lodevbasis4.2-core07 (>= 4.2.0.0.alpha1), lodevbasis4.2-core07 (<= 4.2.0.0.alpha1), libreofficedev4.2 (>= 4.2.0.0.alpha1), libreofficedev4.2 (<= 4.2.0.0.alpha1)
+Filename: debs/libreofficedev4.2-dict-es_4.2.0.0.alpha1_amd64.deb
+Size: 1376874
+MD5sum: eea21a4c33d2cf3b31ccaca6742e5f55
+SHA1: 649ce0c7465dbdfa2eedffa3e8c36a29637e49f7
+SHA256: c3cb69f472a29d633b5ad22dcc44d552b86cd63097833d94b166e03b1145e3ce
+Description: Es dictionary for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Es dictionary for LibreOfficeDev 4.2
+
+Package: libreofficedev4.2-dict-fr
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 6736
+Depends: libreofficedev4.2-ure (>= 4.2.0.0.alpha1), libreofficedev4.2-ure (<= 4.2.0.0.alpha1), lodevbasis4.2-core01 (>= 4.2.0.0.alpha1), lodevbasis4.2-core01 (<= 4.2.0.0.alpha1), lodevbasis4.2-core02 (>= 4.2.0.0.alpha1), lodevbasis4.2-core02 (<= 4.2.0.0.alpha1), lodevbasis4.2-core03 (>= 4.2.0.0.alpha1), lodevbasis4.2-core03 (<= 4.2.0.0.alpha1), lodevbasis4.2-core04 (>= 4.2.0.0.alpha1), lodevbasis4.2-core04 (<= 4.2.0.0.alpha1), lodevbasis4.2-core05 (>= 4.2.0.0.alpha1), lodevbasis4.2-core05 (<= 4.2.0.0.alpha1), lodevbasis4.2-core06 (>= 4.2.0.0.alpha1), lodevbasis4.2-core06 (<= 4.2.0.0.alpha1), lodevbasis4.2-core07 (>= 4.2.0.0.alpha1), lodevbasis4.2-core07 (<= 4.2.0.0.alpha1), libreofficedev4.2 (>= 4.2.0.0.alpha1), libreofficedev4.2 (<= 4.2.0.0.alpha1)
+Filename: debs/libreofficedev4.2-dict-fr_4.2.0.0.alpha1_amd64.deb
+Size: 2236630
+MD5sum: fdee52d3f1b95e245c5717ce4c4a4ce8
+SHA1: 6caa0ac12de2d68d8390673ee02f4045ad18151f
+SHA256: f9939cab01732fa12b8704fafeb33e1256fd6d45d3d250e0aa933052590201e1
+Description: Fr dictionary for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Fr dictionary for LibreOfficeDev 4.2
+
+Package: libreofficedev4.2-draw
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 28
+Depends: libreofficedev4.2 (>= 4.2.0.0.alpha1), libreofficedev4.2 (<= 4.2.0.0.alpha1), lodevbasis4.2-draw (>= 4.2.0.0.alpha1), lodevbasis4.2-draw (<= 4.2.0.0.alpha1)
+Filename: debs/libreofficedev4.2-draw_4.2.0.0.alpha1_amd64.deb
+Size: 794
+MD5sum: bd0d8171f04a89c4d5c8e6f742adde69
+SHA1: 04a6831fe4278c31e45c85eded7c799cad9b9008
+SHA256: ac86d7b89da3266c3da7c736f7fb04a72c31efda9b9c2bb8882453a772655f96
+Description: Draw brand module for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Draw brand module for LibreOfficeDev 4.2
+
+Package: libreofficedev4.2-en-us
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 44
+Depends: libreofficedev4.2 (>= 4.2.0.0.alpha1), libreofficedev4.2 (<= 4.2.0.0.alpha1), lodevbasis4.2-en-us (>= 4.2.0.0.alpha1), lodevbasis4.2-en-us (<= 4.2.0.0.alpha1), lodevbasis4.2-en-us-base (>= 4.2.0.0.alpha1), lodevbasis4.2-en-us-base (<= 4.2.0.0.alpha1), lodevbasis4.2-en-us-calc (>= 4.2.0.0.alpha1), lodevbasis4.2-en-us-calc (<= 4.2.0.0.alpha1), lodevbasis4.2-en-us-math (>= 4.2.0.0.alpha1), lodevbasis4.2-en-us-math (<= 4.2.0.0.alpha1), lodevbasis4.2-en-us-res (>= 4.2.0.0.alpha1), lodevbasis4.2-en-us-res (<= 4.2.0.0.alpha1), lodevbasis4.2-en-us-writer (>= 4.2.0.0.alpha1), lodevbasis4.2-en-us-writer (<= 4.2.0.0.alpha1)
+Filename: debs/libreofficedev4.2-en-us_4.2.0.0.alpha1_amd64.deb
+Size: 6024
+MD5sum: 8fdc0a1aafbdb8125a478cd4ada19366
+SHA1: 1a62e4eb42d0c5ec7a75e7bccd1c05e9360c6fb0
+SHA256: aa9e7fa2d977e1a38905472d959c7e915eb7ebc26650806c282866341069ba7a
+Description: Brand language module for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Brand language module for LibreOfficeDev 4.2
+
+Package: libreofficedev4.2-impress
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 28
+Depends: libreofficedev4.2 (>= 4.2.0.0.alpha1), libreofficedev4.2 (<= 4.2.0.0.alpha1), lodevbasis4.2-impress (>= 4.2.0.0.alpha1), lodevbasis4.2-impress (<= 4.2.0.0.alpha1)
+Filename: debs/libreofficedev4.2-impress_4.2.0.0.alpha1_amd64.deb
+Size: 804
+MD5sum: 966376ca2053d58bcc814a5184f0b2c7
+SHA1: b3f55f65a9f6f2e3a127304c30fce95dcb729755
+SHA256: 3e5896576ea51fe195d916405cda4f2192019b3f3fc0f64ad8689f4bbb5134d8
+Description: Impress brand module for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Impress brand module for LibreOfficeDev 4.2
+
+Package: libreofficedev4.2-math
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 28
+Depends: libreofficedev4.2 (>= 4.2.0.0.alpha1), libreofficedev4.2 (<= 4.2.0.0.alpha1), lodevbasis4.2-math (>= 4.2.0.0.alpha1), lodevbasis4.2-math (<= 4.2.0.0.alpha1)
+Filename: debs/libreofficedev4.2-math_4.2.0.0.alpha1_amd64.deb
+Size: 794
+MD5sum: de77818ad11992d9c921851fc8bc144d
+SHA1: c27b6361365950f3ef8821b0ea6fb70e7678daaf
+SHA256: 891dd79bbbce408c6780477140ef3c477641917ade4e7caaa18426c7027a4653
+Description: Math brand module for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Math brand module for LibreOfficeDev 4.2
+
+Package: libreofficedev4.2-ure
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 11064
+Conflicts: libreofficedev4.2-stdlibs
+Replaces: libreofficedev4.2-stdlibs
+Filename: debs/libreofficedev4.2-ure_4.2.0.0.alpha1_amd64.deb
+Size: 4077200
+MD5sum: 4fa8acf5d15940f95cebbec353cefe13
+SHA1: 4cd9dd843ca5533584f4e603a62c8f9c4ac9c046
+SHA256: 80498d32fec0a16df3ed8cc7a9a01c726e3728831e26c4d6d065cb967ac2acc2
+Description: UNO Runtime Environment .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ UNO Runtime Environment
+
+Package: libreofficedev4.2-writer
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 28
+Depends: libreofficedev4.2 (>= 4.2.0.0.alpha1), libreofficedev4.2 (<= 4.2.0.0.alpha1), lodevbasis4.2-writer (>= 4.2.0.0.alpha1), lodevbasis4.2-writer (<= 4.2.0.0.alpha1)
+Filename: debs/libreofficedev4.2-writer_4.2.0.0.alpha1_amd64.deb
+Size: 798
+MD5sum: 4b3c3b19da1ffbe2b8239f9135e612ee
+SHA1: ffba56d042a5862d5b3c611364c58be8fd261e27
+SHA256: 9992194c3b8b890e9edf29e778698ad9c3e5d955a70cae38240834af5de54d30
+Description: Writer brand module for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Writer brand module for LibreOfficeDev 4.2
+
+Package: lodevbasis4.2-base
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 7048
+Depends: lodevbasis4.2-core01 (>= 4.2.0.0.alpha1), lodevbasis4.2-core01 (<= 4.2.0.0.alpha1)
+Filename: debs/lodevbasis4.2-base_4.2.0.0.alpha1_amd64.deb
+Size: 2198138
+MD5sum: b527876608d61b381e425d4ca70d803c
+SHA1: 8cf915cf4fc2ba735d208dbf96a186a509a39b6a
+SHA256: 17f8b5baac88a17bedae59f1229ff0a608060d5096dfc26df98c679922873076
+Description: Base module for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Base module for LibreOfficeDev 4.2
+
+Package: lodevbasis4.2-calc
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 31096
+Depends: lodevbasis4.2-core01 (>= 4.2.0.0.alpha1), lodevbasis4.2-core01 (<= 4.2.0.0.alpha1)
+Filename: debs/lodevbasis4.2-calc_4.2.0.0.alpha1_amd64.deb
+Size: 10422334
+MD5sum: 956f3d2f6446a9fe1c7a0fdeb7e06dc6
+SHA1: 778a23895a75ae98981b3b67bfb301aaa5b6d4e9
+SHA256: 2bcadd5e44efd1229aa9291b4f793ba04f6c1fa9d021b16e9ebcd8e8eb8025c3
+Description: Calc module for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Calc module for LibreOfficeDev 4.2
+
+Package: lodevbasis4.2-core01
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 70988
+Depends: libreofficedev4.2-ure (>= 4.2.0.0.alpha1), libreofficedev4.2-ure (<= 4.2.0.0.alpha1)
+Filename: debs/lodevbasis4.2-core01_4.2.0.0.alpha1_amd64.deb
+Size: 31561920
+MD5sum: 2fcf2eda1c544ff0d2728cf31afa1f8e
+SHA1: 87c46fa0a3654fc3b44000cfdaeecfb53371bca8
+SHA256: b887e7ac04170d7c34e3df2694351c2384b2c68d4e42786c126ae630c7962aa2
+Description: Core module for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Core module for LibreOfficeDev 4.2
+
+Package: lodevbasis4.2-core02
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 368
+Depends: lodevbasis4.2-core01 (>= 4.2.0.0.alpha1), lodevbasis4.2-core01 (<= 4.2.0.0.alpha1)
+Filename: debs/lodevbasis4.2-core02_4.2.0.0.alpha1_amd64.deb
+Size: 102508
+MD5sum: 97fd8bc7ba3ae4bb068370b6fece0a1e
+SHA1: 2dc33d89c3204e5e2713f51afce613f7a0bcf5d6
+SHA256: dfc47831b127fa7f63636ec911f36f96be5344374d0223e69301c1f135533586
+Description: Office core module for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Office core module for LibreOfficeDev 4.2
+
+Package: lodevbasis4.2-core03
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 3768
+Depends: lodevbasis4.2-core01 (>= 4.2.0.0.alpha1), lodevbasis4.2-core01 (<= 4.2.0.0.alpha1)
+Filename: debs/lodevbasis4.2-core03_4.2.0.0.alpha1_amd64.deb
+Size: 2286470
+MD5sum: 3fe5578f6eba41bc0a5648c084f11f1a
+SHA1: f923fc6f9186d9c69f763fad362266837997a225
+SHA256: 4320ecb55ff1de09750c654085c65e51df89f50024c8271fc2441f7eae5a6883
+Description: Office core module for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Office core module for LibreOfficeDev 4.2
+
+Package: lodevbasis4.2-core04
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 211292
+Depends: lodevbasis4.2-core01 (>= 4.2.0.0.alpha1), lodevbasis4.2-core01 (<= 4.2.0.0.alpha1)
+Filename: debs/lodevbasis4.2-core04_4.2.0.0.alpha1_amd64.deb
+Size: 65896814
+MD5sum: a7afb4368beeaba2dd98bc7dc4377524
+SHA1: 864d43753d4225c1adc28913184062c82f111b88
+SHA256: 1583881edd94b33e20036255c388ea00ea20aab8d7f49695bb1ddcd354fc582b
+Description: Office core module for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Office core module for LibreOfficeDev 4.2
+
+Package: lodevbasis4.2-core05
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 48588
+Depends: lodevbasis4.2-core01 (>= 4.2.0.0.alpha1), lodevbasis4.2-core01 (<= 4.2.0.0.alpha1)
+Filename: debs/lodevbasis4.2-core05_4.2.0.0.alpha1_amd64.deb
+Size: 18343208
+MD5sum: 0ae15fb4ea0cfc2b22c339fdb1972498
+SHA1: 9556b2dfddbb70ab9eadc33f96191da6924cae24
+SHA256: 754d7e839950dab15d3be5608a62a726684c12149d18a28132c4b26dcb617569
+Description: Office core module for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Office core module for LibreOfficeDev 4.2
+
+Package: lodevbasis4.2-core06
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 29588
+Depends: lodevbasis4.2-core01 (>= 4.2.0.0.alpha1), lodevbasis4.2-core01 (<= 4.2.0.0.alpha1)
+Filename: debs/lodevbasis4.2-core06_4.2.0.0.alpha1_amd64.deb
+Size: 7713088
+MD5sum: bdbf1aef093b038bcd25dfbea3b482dd
+SHA1: 8ffce886c3a6cf7e7afd7434905100e8e6096fa4
+SHA256: cd399c8c1966e3af183c9e6094077c2d07f869f190306b95437159611d552ca0
+Description: Office core module for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Office core module for LibreOfficeDev 4.2
+
+Package: lodevbasis4.2-core07
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 68
+Depends: lodevbasis4.2-core01 (>= 4.2.0.0.alpha1), lodevbasis4.2-core01 (<= 4.2.0.0.alpha1)
+Filename: debs/lodevbasis4.2-core07_4.2.0.0.alpha1_amd64.deb
+Size: 8302
+MD5sum: 6dfe8678d73c4b11b9fe1d28a2c78ad7
+SHA1: 2b2e9210537a96fc33ccc5c0ae4b611478533b16
+SHA256: 1495da64b70a5e1d55367d9771a1b7233faf16a875e6b3b7c846e4c6a9e3282f
+Description: Office core module for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Office core module for LibreOfficeDev 4.2
+
+Package: lodevbasis4.2-draw
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 72
+Depends: lodevbasis4.2-core01 (>= 4.2.0.0.alpha1), lodevbasis4.2-core01 (<= 4.2.0.0.alpha1)
+Filename: debs/lodevbasis4.2-draw_4.2.0.0.alpha1_amd64.deb
+Size: 3926
+MD5sum: 273182805ae88d437bd5ba6c7d17a7a4
+SHA1: a6763ede6b9e113a92bcac207512d1b425c195c8
+SHA256: 0bd949d68c25fffc39869a49c5c6563d3a42c556ffbeeef682950dfe880d2ab5
+Description: Draw module for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Draw module for LibreOfficeDev 4.2
+
+Package: lodevbasis4.2-en-us
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 200
+Depends: lodevbasis4.2-core01 (>= 4.2.0.0.alpha1), lodevbasis4.2-core01 (<= 4.2.0.0.alpha1)
+Provides: lodevbasis4.2-en-us
+Filename: debs/lodevbasis4.2-en-us_4.2.0.0.alpha1_amd64.deb
+Size: 82788
+MD5sum: 47f015ad189373d47359b4d82ec6ebe0
+SHA1: f9554a5ed99c966b89e181d0acef3c3d9cfa2f25
+SHA256: 59cecfbf509e7e61f72941a50d70ad6aef4f6057e4257461c17f0d2f52efc59f
+Description: Language module for LibreOffice 4.2, language en_US .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Language module for LibreOffice 4.2, language en_US
+
+Package: lodevbasis4.2-en-us-base
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 180
+Depends: lodevbasis4.2-en-us (>= 4.2.0.0.alpha1), lodevbasis4.2-en-us (<= 4.2.0.0.alpha1)
+Provides: lodevbasis4.2-en-us-base
+Filename: debs/lodevbasis4.2-en-us-base_4.2.0.0.alpha1_amd64.deb
+Size: 37958
+MD5sum: d59cfdc6dc67e1073a8fd8e6118d567e
+SHA1: 5c17723ba92bb616aa31c986ef5af1efa3107c20
+SHA256: 2f3be74447036e7dcf1b74ce2e3fa35b5279194f0d788cfda59fa078f316a757
+Description: Base language module for LibreOffice 4.2, language en_US .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Base language module for LibreOffice 4.2, language en_US
+
+Package: lodevbasis4.2-en-us-calc
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 300
+Depends: lodevbasis4.2-en-us (>= 4.2.0.0.alpha1), lodevbasis4.2-en-us (<= 4.2.0.0.alpha1)
+Provides: lodevbasis4.2-en-us-calc
+Filename: debs/lodevbasis4.2-en-us-calc_4.2.0.0.alpha1_amd64.deb
+Size: 58540
+MD5sum: 668caa3b15c0e1caf3561d574e0c40fc
+SHA1: 1aa61908369c7f95077d3d0867f75180115a5d0a
+SHA256: 3810f2aad1b8d1d825e025677e55f4790c6f55372d890be7b93e7322535950f2
+Description: Calc language module for LibreOffice 4.2, language en_US .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Calc language module for LibreOffice 4.2, language en_US
+
+Package: lodevbasis4.2-en-us-math
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 92
+Depends: lodevbasis4.2-en-us (>= 4.2.0.0.alpha1), lodevbasis4.2-en-us (<= 4.2.0.0.alpha1)
+Provides: lodevbasis4.2-en-us-math
+Filename: debs/lodevbasis4.2-en-us-math_4.2.0.0.alpha1_amd64.deb
+Size: 17790
+MD5sum: 8196061c3006e21f72a64c5c006e70f2
+SHA1: 2a5a2faaf45077d842e138533879494f0e0245a7
+SHA256: e7139b02841e675db2ca75f65aefb52a265f77195328ed89259527a5e85fd4f8
+Description: Math language module for LibreOffice 4.2, language en_US .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Math language module for LibreOffice 4.2, language en_US
+
+Package: lodevbasis4.2-en-us-res
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 1044
+Depends: lodevbasis4.2-en-us (>= 4.2.0.0.alpha1), lodevbasis4.2-en-us (<= 4.2.0.0.alpha1)
+Provides: lodevbasis4.2-en-us-res
+Filename: debs/lodevbasis4.2-en-us-res_4.2.0.0.alpha1_amd64.deb
+Size: 253204
+MD5sum: cae16a0a4b88101e693a1428261c8814
+SHA1: 463744db0533512636a72a8d1da7fc080a7f6007
+SHA256: 56274e1ffe0861604115ec0f69589c2e9c2a16ed91d2fe22953028eb3f9e76d2
+Description: Language resource module for LibreOffice 4.2, language en_US .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Language resource module for LibreOffice 4.2, language en_US
+
+Package: lodevbasis4.2-en-us-writer
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 32
+Depends: lodevbasis4.2-en-us (>= 4.2.0.0.alpha1), lodevbasis4.2-en-us (<= 4.2.0.0.alpha1)
+Provides: lodevbasis4.2-en-us-writer
+Filename: debs/lodevbasis4.2-en-us-writer_4.2.0.0.alpha1_amd64.deb
+Size: 1100
+MD5sum: 35ff4a3477b3fe15a501ee7c5247e25e
+SHA1: a0aa17b38edcb57bf51fd957feb45dc3d10a9c9f
+SHA256: 0e132e53ccb4e58e1849c3fa65db1301280d0776bc2a191a19e9ce98da9362cb
+Description: Writer language module for LibreOffice 4.2, language en_US .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Writer language module for LibreOffice 4.2, language en_US
+
+Package: lodevbasis4.2-extension-beanshell-script-provider
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 320
+Depends: lodevbasis4.2-core01 (>= 4.2.0.0.alpha1), lodevbasis4.2-core01 (<= 4.2.0.0.alpha1), lodevbasis4.2-core02 (>= 4.2.0.0.alpha1), lodevbasis4.2-core02 (<= 4.2.0.0.alpha1), lodevbasis4.2-core03 (>= 4.2.0.0.alpha1), lodevbasis4.2-core03 (<= 4.2.0.0.alpha1), lodevbasis4.2-core04 (>= 4.2.0.0.alpha1), lodevbasis4.2-core04 (<= 4.2.0.0.alpha1), lodevbasis4.2-core05 (>= 4.2.0.0.alpha1), lodevbasis4.2-core05 (<= 4.2.0.0.alpha1), lodevbasis4.2-core06 (>= 4.2.0.0.alpha1), lodevbasis4.2-core06 (<= 4.2.0.0.alpha1), lodevbasis4.2-core07 (>= 4.2.0.0.alpha1), lodevbasis4.2-core07 (<= 4.2.0.0.alpha1)
+Filename: debs/lodevbasis4.2-extension-beanshell-script-provider_4.2.0.0.alpha1_amd64.deb
+Size: 268420
+MD5sum: c49a3e9a10b10a78f3df7a9e5047cd02
+SHA1: 5de355827e6d06384d5ef398123da2a574dcaf39
+SHA256: 39d6f1a225bb98366e8c1ceb895d37a1cb7673e177fff08ac6c53aed75c81dab
+Description: Script provider for BeanShell extension for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Script provider for BeanShell extension for LibreOfficeDev 4.2
+
+Package: lodevbasis4.2-extension-javascript-script-provider
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 660
+Depends: lodevbasis4.2-core01 (>= 4.2.0.0.alpha1), lodevbasis4.2-core01 (<= 4.2.0.0.alpha1), lodevbasis4.2-core02 (>= 4.2.0.0.alpha1), lodevbasis4.2-core02 (<= 4.2.0.0.alpha1), lodevbasis4.2-core03 (>= 4.2.0.0.alpha1), lodevbasis4.2-core03 (<= 4.2.0.0.alpha1), lodevbasis4.2-core04 (>= 4.2.0.0.alpha1), lodevbasis4.2-core04 (<= 4.2.0.0.alpha1), lodevbasis4.2-core05 (>= 4.2.0.0.alpha1), lodevbasis4.2-core05 (<= 4.2.0.0.alpha1), lodevbasis4.2-core06 (>= 4.2.0.0.alpha1), lodevbasis4.2-core06 (<= 4.2.0.0.alpha1), lodevbasis4.2-core07 (>= 4.2.0.0.alpha1), lodevbasis4.2-core07 (<= 4.2.0.0.alpha1)
+Filename: debs/lodevbasis4.2-extension-javascript-script-provider_4.2.0.0.alpha1_amd64.deb
+Size: 604648
+MD5sum: f06eec0cffafc6719429c40dae284c92
+SHA1: 8342009fb8a07ec33c2c57092aa99c7d8487f4cd
+SHA256: c59874979034b7f089cf5bf23b33fa223d3b180cce1ff6c8cdfdb9099ff7934d
+Description: Script provider for JavaScript extension for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Script provider for JavaScript extension for LibreOfficeDev 4.2
+
+Package: lodevbasis4.2-extension-mediawiki-publisher
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 1852
+Depends: lodevbasis4.2-core01 (>= 4.2.0.0.alpha1), lodevbasis4.2-core01 (<= 4.2.0.0.alpha1), lodevbasis4.2-core02 (>= 4.2.0.0.alpha1), lodevbasis4.2-core02 (<= 4.2.0.0.alpha1), lodevbasis4.2-core03 (>= 4.2.0.0.alpha1), lodevbasis4.2-core03 (<= 4.2.0.0.alpha1), lodevbasis4.2-core04 (>= 4.2.0.0.alpha1), lodevbasis4.2-core04 (<= 4.2.0.0.alpha1), lodevbasis4.2-core05 (>= 4.2.0.0.alpha1), lodevbasis4.2-core05 (<= 4.2.0.0.alpha1), lodevbasis4.2-core06 (>= 4.2.0.0.alpha1), lodevbasis4.2-core06 (<= 4.2.0.0.alpha1), lodevbasis4.2-core07 (>= 4.2.0.0.alpha1), lodevbasis4.2-core07 (<= 4.2.0.0.alpha1)
+Filename: debs/lodevbasis4.2-extension-mediawiki-publisher_4.2.0.0.alpha1_amd64.deb
+Size: 884800
+MD5sum: 6554e1758a9c99408ad638b50be27c8d
+SHA1: bdc518d651fd2756b4383ebb78aa1ac7488c5772
+SHA256: 5a1fcd36686e7632116ae87cca60e9eb82900a342fb3ea7b2c73cbaa5ab6c91b
+Description: MediaWiki publisher extension for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ MediaWiki publisher extension for LibreOfficeDev 4.2
+
+Package: lodevbasis4.2-extension-nlpsolver
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 620
+Depends: lodevbasis4.2-core01 (>= 4.2.0.0.alpha1), lodevbasis4.2-core01 (<= 4.2.0.0.alpha1), lodevbasis4.2-core02 (>= 4.2.0.0.alpha1), lodevbasis4.2-core02 (<= 4.2.0.0.alpha1), lodevbasis4.2-core03 (>= 4.2.0.0.alpha1), lodevbasis4.2-core03 (<= 4.2.0.0.alpha1), lodevbasis4.2-core04 (>= 4.2.0.0.alpha1), lodevbasis4.2-core04 (<= 4.2.0.0.alpha1), lodevbasis4.2-core05 (>= 4.2.0.0.alpha1), lodevbasis4.2-core05 (<= 4.2.0.0.alpha1), lodevbasis4.2-core06 (>= 4.2.0.0.alpha1), lodevbasis4.2-core06 (<= 4.2.0.0.alpha1), lodevbasis4.2-core07 (>= 4.2.0.0.alpha1), lodevbasis4.2-core07 (<= 4.2.0.0.alpha1)
+Filename: debs/lodevbasis4.2-extension-nlpsolver_4.2.0.0.alpha1_amd64.deb
+Size: 177890
+MD5sum: cc67399e6df8e7596d669a669081976d
+SHA1: a79fd75999a22de04bb4562154704d2e87703d5d
+SHA256: 408a80e6107844a81b4eb9a7aed93fd48aa26f42060d30c2e594d2b197280a5e
+Description: NLPSolver extension for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ NLPSolver extension for LibreOfficeDev 4.2
+
+Package: lodevbasis4.2-extension-pdf-import
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 2520
+Depends: lodevbasis4.2-core01 (>= 4.2.0.0.alpha1), lodevbasis4.2-core01 (<= 4.2.0.0.alpha1), lodevbasis4.2-core02 (>= 4.2.0.0.alpha1), lodevbasis4.2-core02 (<= 4.2.0.0.alpha1), lodevbasis4.2-core03 (>= 4.2.0.0.alpha1), lodevbasis4.2-core03 (<= 4.2.0.0.alpha1), lodevbasis4.2-core04 (>= 4.2.0.0.alpha1), lodevbasis4.2-core04 (<= 4.2.0.0.alpha1), lodevbasis4.2-core05 (>= 4.2.0.0.alpha1), lodevbasis4.2-core05 (<= 4.2.0.0.alpha1), lodevbasis4.2-core06 (>= 4.2.0.0.alpha1), lodevbasis4.2-core06 (<= 4.2.0.0.alpha1), lodevbasis4.2-core07 (>= 4.2.0.0.alpha1), lodevbasis4.2-core07 (<= 4.2.0.0.alpha1)
+Filename: debs/lodevbasis4.2-extension-pdf-import_4.2.0.0.alpha1_amd64.deb
+Size: 878386
+MD5sum: a22ea81bfdcc665d291a42220b809386
+SHA1: ebbe7a4f0123bc8a229df8aeb3605cb68eeb33d5
+SHA256: c55636050f56e924a9069da5e1d6f3b4eebe4f9f293577de131e8d473bfb25c0
+Description: PDF import extension for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ PDF import extension for LibreOfficeDev 4.2
+
+Package: lodevbasis4.2-extension-report-builder
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 7284
+Depends: lodevbasis4.2-core01 (>= 4.2.0.0.alpha1), lodevbasis4.2-core01 (<= 4.2.0.0.alpha1), lodevbasis4.2-core02 (>= 4.2.0.0.alpha1), lodevbasis4.2-core02 (<= 4.2.0.0.alpha1), lodevbasis4.2-core03 (>= 4.2.0.0.alpha1), lodevbasis4.2-core03 (<= 4.2.0.0.alpha1), lodevbasis4.2-core04 (>= 4.2.0.0.alpha1), lodevbasis4.2-core04 (<= 4.2.0.0.alpha1), lodevbasis4.2-core05 (>= 4.2.0.0.alpha1), lodevbasis4.2-core05 (<= 4.2.0.0.alpha1), lodevbasis4.2-core06 (>= 4.2.0.0.alpha1), lodevbasis4.2-core06 (<= 4.2.0.0.alpha1), lodevbasis4.2-core07 (>= 4.2.0.0.alpha1), lodevbasis4.2-core07 (<= 4.2.0.0.alpha1)
+Filename: debs/lodevbasis4.2-extension-report-builder_4.2.0.0.alpha1_amd64.deb
+Size: 3506078
+MD5sum: 894ee5194ee08d568343e160d8971803
+SHA1: 49167ecaaa995aff6957f3b1ae9204948cb76184
+SHA256: 61a61a3c1922605386f480d29830dd973ab92c910aeeb72ff10e314a0f997054
+Description: Report Builder extension for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Report Builder extension for LibreOfficeDev 4.2
+
+Package: lodevbasis4.2-gnome-integration
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 1780
+Depends: lodevbasis4.2-core01 (>= 4.2.0.0.alpha1), lodevbasis4.2-core01 (<= 4.2.0.0.alpha1)
+Filename: debs/lodevbasis4.2-gnome-integration_4.2.0.0.alpha1_amd64.deb
+Size: 531982
+MD5sum: d8b8a6e20702a36f5c752c4bf9388ca7
+SHA1: 1b035513f33dd912ac02c7fcdc019eaeb509028b
+SHA256: cc74db75810c7d0e018c9e72e21c81e279c8cbaa241f845717d80f24b6c779a8
+Description: Gnome integration module for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Gnome integration module for LibreOfficeDev 4.2
+
+Package: lodevbasis4.2-graphicfilter
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 13972
+Depends: lodevbasis4.2-core01 (>= 4.2.0.0.alpha1), lodevbasis4.2-core01 (<= 4.2.0.0.alpha1)
+Filename: debs/lodevbasis4.2-graphicfilter_4.2.0.0.alpha1_amd64.deb
+Size: 4359638
+MD5sum: edb1d21511846a0809ba8ab0b055ca1f
+SHA1: 3ffc1e47d9c5e66e135d8a2710e679cec6eca3a5
+SHA256: 6f5fb4b6ee65cd4180b47020f3285f5f791d0f5e4e127be55371721c20528b59
+Description: Graphic filter module for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Graphic filter module for LibreOfficeDev 4.2
+
+Package: lodevbasis4.2-images
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 20452
+Depends: lodevbasis4.2-core01 (>= 4.2.0.0.alpha1), lodevbasis4.2-core01 (<= 4.2.0.0.alpha1)
+Filename: debs/lodevbasis4.2-images_4.2.0.0.alpha1_amd64.deb
+Size: 13467150
+MD5sum: ebfcaa866a71bba644afaec3ed5c9044
+SHA1: 5dd54ddecff3f8170f828b477894c87b8ec4904e
+SHA256: 532ce58766a757e72d9758cd9938fd1d3588dd4e726631ac429000f2b3a25939
+Description: Images module for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Images module for LibreOfficeDev 4.2
+
+Package: lodevbasis4.2-impress
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 5044
+Depends: lodevbasis4.2-core01 (>= 4.2.0.0.alpha1), lodevbasis4.2-core01 (<= 4.2.0.0.alpha1)
+Filename: debs/lodevbasis4.2-impress_4.2.0.0.alpha1_amd64.deb
+Size: 1371580
+MD5sum: 9fa2f2c0e1a1675ffa348c3a7b716f3e
+SHA1: b53ee80d0963c5d027fbe4f949a6a98d5695fb5e
+SHA256: f08d9f15c7f991840cf10948a9aa45b01d158ba93524502174d10c66e0724dca
+Description: Impress module for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Impress module for LibreOfficeDev 4.2
+
+Package: lodevbasis4.2-librelogo
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 204
+Depends: lodevbasis4.2-pyuno (>= 4.2.0.0.alpha1), lodevbasis4.2-pyuno (<= 4.2.0.0.alpha1), lodevbasis4.2-writer (>= 4.2.0.0.alpha1), lodevbasis4.2-writer (<= 4.2.0.0.alpha1)
+Filename: debs/lodevbasis4.2-librelogo_4.2.0.0.alpha1_amd64.deb
+Size: 33482
+MD5sum: c30d81e2dd00ef8bb7d0864ae246b77d
+SHA1: 010163e9be01e85c1f8635e810a2e5967f918e83
+SHA256: a910bd38d6fcb90e608c34f978ee5fa74ec5ee876b0699fb883ee6a70473d94f
+Description: LibreLogo toolbar for LibreOfficeDev 4.2 Writer .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ LibreLogo toolbar for LibreOfficeDev 4.2 Writer
+
+Package: lodevbasis4.2-math
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 1708
+Depends: lodevbasis4.2-core01 (>= 4.2.0.0.alpha1), lodevbasis4.2-core01 (<= 4.2.0.0.alpha1)
+Filename: debs/lodevbasis4.2-math_4.2.0.0.alpha1_amd64.deb
+Size: 543378
+MD5sum: 4f950160803edb633836e5c2d0150ad6
+SHA1: fdac71cd9b495bde28a06a2ea4dba4fbe1b79c2f
+SHA256: f588e30473b4d0e532b2d0f6a0f3a5f59a1bf69879e907cdba4390fd6e1ef9ef
+Description: Math module for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Math module for LibreOfficeDev 4.2
+
+Package: lodevbasis4.2-ogltrans
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 372
+Depends: lodevbasis4.2-impress (>= 4.2.0.0.alpha1), lodevbasis4.2-impress (<= 4.2.0.0.alpha1)
+Filename: debs/lodevbasis4.2-ogltrans_4.2.0.0.alpha1_amd64.deb
+Size: 95188
+MD5sum: 8c9ac9cd25d79a36bd4d6fd0cb86ed04
+SHA1: 3f4fb8eb16aa2d796d75d279e1dc5a0115be05b8
+SHA256: 37721c9353f0ab087ff51b7ab75a4193c873815cb1054c4db5b411797e8b770d
+Description: OpenGL slide transitions module for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ OpenGL slide transitions module for LibreOfficeDev 4.2
+
+Package: lodevbasis4.2-onlineupdate
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 560
+Depends: lodevbasis4.2-core01 (>= 4.2.0.0.alpha1), lodevbasis4.2-core01 (<= 4.2.0.0.alpha1)
+Filename: debs/lodevbasis4.2-onlineupdate_4.2.0.0.alpha1_amd64.deb
+Size: 177672
+MD5sum: 262f2ab585b7aea182a164cd90ecc70b
+SHA1: 926de386cb14b8730c13ec9e983aa16c0ce24d53
+SHA256: 0bf3e905e40b929a730f446e79434ee82025edb54e06ebd057d4459b173fa963
+Description: Online update modul for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Online update modul for LibreOfficeDev 4.2
+
+Package: lodevbasis4.2-ooofonts
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 38480
+Depends: lodevbasis4.2-core01 (>= 4.2.0.0.alpha1), lodevbasis4.2-core01 (<= 4.2.0.0.alpha1)
+Filename: debs/lodevbasis4.2-ooofonts_4.2.0.0.alpha1_amd64.deb
+Size: 15675186
+MD5sum: 59729a58ee84de317d67d7698f03ff36
+SHA1: 7a331dd183ffff7683d8453fde3c88b208ab5503
+SHA256: 5d78820764dad30a401e43ef7587d654d119e1d5fdba018f3172051f14574e65
+Description: Mailcap module for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Mailcap module for LibreOfficeDev 4.2
+
+Package: lodevbasis4.2-ooolinguistic
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 32
+Depends: lodevbasis4.2-core01 (>= 4.2.0.0.alpha1), lodevbasis4.2-core01 (<= 4.2.0.0.alpha1)
+Filename: debs/lodevbasis4.2-ooolinguistic_4.2.0.0.alpha1_amd64.deb
+Size: 1118
+MD5sum: 43402c0c4f8805293e0a45d9bcd67b2f
+SHA1: bba19d3293e0ec9f89eb010ebd1254ab0359f07e
+SHA256: c8575a42ecbfd760413bb13793797f33676cc84492a0ceb2f5bde13288542ccd
+Description: Linguistic module for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Linguistic module for LibreOfficeDev 4.2
+
+Package: lodevbasis4.2-postgresql-sdbc
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 4040
+Depends: lodevbasis4.2-base (>= 4.2.0.0.alpha1), lodevbasis4.2-base (<= 4.2.0.0.alpha1)
+Filename: debs/lodevbasis4.2-postgresql-sdbc_4.2.0.0.alpha1_amd64.deb
+Size: 1451236
+MD5sum: f8e100c664dfe235fd66d7eb48223dab
+SHA1: d0df24cbca9a4aa79d3a514a3a2cae6433b9c659
+SHA256: 517e0c41cc4522853474d00b49d97e5641ad7869e3acff77e8ae176ff7451fe1
+Description: PostgreSQL Connector driver for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ PostgreSQL Connector driver for LibreOfficeDev 4.2
+
+Package: lodevbasis4.2-python-script-provider
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 72
+Depends: lodevbasis4.2-core01 (>= 4.2.0.0.alpha1), lodevbasis4.2-core01 (<= 4.2.0.0.alpha1), lodevbasis4.2-core02 (>= 4.2.0.0.alpha1), lodevbasis4.2-core02 (<= 4.2.0.0.alpha1), lodevbasis4.2-core03 (>= 4.2.0.0.alpha1), lodevbasis4.2-core03 (<= 4.2.0.0.alpha1), lodevbasis4.2-core04 (>= 4.2.0.0.alpha1), lodevbasis4.2-core04 (<= 4.2.0.0.alpha1), lodevbasis4.2-core05 (>= 4.2.0.0.alpha1), lodevbasis4.2-core05 (<= 4.2.0.0.alpha1), lodevbasis4.2-core06 (>= 4.2.0.0.alpha1), lodevbasis4.2-core06 (<= 4.2.0.0.alpha1), lodevbasis4.2-core07 (>= 4.2.0.0.alpha1), lodevbasis4.2-core07 (<= 4.2.0.0.alpha1)
+Filename: debs/lodevbasis4.2-python-script-provider_4.2.0.0.alpha1_amd64.deb
+Size: 10692
+MD5sum: 9078581871d096699de1598de99b102d
+SHA1: fec0ace34755860d84d867e4bd0de70c131cb76d
+SHA256: ebb3d9ae8007f60200600d2cfad680dc71ea42037436d6dd6a29718d52f3a4a4
+Description: Script provider for Python for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Script provider for Python for LibreOfficeDev 4.2
+
+Package: lodevbasis4.2-pyuno
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 31448
+Depends: lodevbasis4.2-core01 (>= 4.2.0.0.alpha1), lodevbasis4.2-core01 (<= 4.2.0.0.alpha1)
+Filename: debs/lodevbasis4.2-pyuno_4.2.0.0.alpha1_amd64.deb
+Size: 9717218
+MD5sum: 067954680cf4ae35e41ffe8547b60e5b
+SHA1: 1ce117088849596e2425477df76e507f9b8ad062
+SHA256: 85c3c4f0e5101b9f87f25f3a7d62f44c645b2ad220c84d6fab4473ad7cd2f655
+Description: Pyuno module for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Pyuno module for LibreOfficeDev 4.2
+
+Package: lodevbasis4.2-writer
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 33712
+Depends: lodevbasis4.2-core01 (>= 4.2.0.0.alpha1), lodevbasis4.2-core01 (<= 4.2.0.0.alpha1)
+Filename: debs/lodevbasis4.2-writer_4.2.0.0.alpha1_amd64.deb
+Size: 9887056
+MD5sum: 183bc21a8c4a91b53f648a1fd5a88973
+SHA1: f4f49da644db2bf3ca1df63574101c12fd38121a
+SHA256: e46ccc6d5ca6bbaa9cd1e079d444d0ccdd6f5d1898ee41f5ca9a2b41576f6fa0
+Description: Writer module for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ Writer module for LibreOfficeDev 4.2
+
+Package: lodevbasis4.2-xsltfilter
+Version: 4.2.0.0.alpha1
+Architecture: amd64
+Maintainer: The Document Foundation
+Installed-Size: 352
+Depends: lodevbasis4.2-core01 (>= 4.2.0.0.alpha1), lodevbasis4.2-core01 (<= 4.2.0.0.alpha1)
+Filename: debs/lodevbasis4.2-xsltfilter_4.2.0.0.alpha1_amd64.deb
+Size: 49394
+MD5sum: e746040439938dee3969155b5b0fd9f3
+SHA1: 7f3d3b06128ce19c92298db82b5f4caebdb1cb16
+SHA256: 04dca657c65d84a7ee16c8ad7946a623d47f23eb1c4994d271ff9ff2a75f897b
+Description: XSLT filter samples module for LibreOfficeDev 4.2 .0.0.alpha1
+ Copyright: 2012 The Document Foundation
+ XSLT filter samples module for LibreOfficeDev 4.2
+
