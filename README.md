@@ -40,6 +40,17 @@ cd libreoffice-core
 make
 ```
 
+After a successful `make`, the generated debs should be roughly in:
+```
+./workdir/installation/LibreOffice_Dev/deb/install/LibreOfficeDev_4.3.0.0.alpha0_Linux_x86-64_deb/DEBS/
+```
+
+`cd` there and copy to this folder:
+```
+cp *.deb /usr/local/src/libreoffice-debs/debs/
+```
+
+This may not be necessary:
 The generated debs versioned `alpha1-1` won't properly install, so change them,
 then regenerate `Packages`:
 ```sh
