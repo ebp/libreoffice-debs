@@ -1,0 +1,7 @@
+[ErrorReport]
+ErrorReportPort=80
+ErrorReportServer=report.libreoffice.org
+[Bootstrap]
+InstallMode=<installmode>
+ProductKey=LibreOfficeDev 4.3
+UserInstallation=$SYSUSERCONFIG/libreofficedev/4

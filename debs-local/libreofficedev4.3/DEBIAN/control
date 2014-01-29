@@ -1,0 +1,9 @@
+Package: libreofficedev4.3
+Version: 4.3.0.0.alpha0-1
+Maintainer: The Document Foundation
+Architecture: amd64
+Description: Brand module for LibreOfficeDev 4.3 .0.0.alpha0
+ Copyright: 2012 The Document Foundation
+ Brand module for LibreOfficeDev 4.3
+Depends: libreofficedev4.3-ure (>= 4.3.0.0.alpha0), libreofficedev4.3-ure (<= 4.3.0.0.alpha0-), lodevbasis4.3-core01 (>= 4.3.0.0.alpha0), lodevbasis4.3-core01 (<= 4.3.0.0.alpha0-), lodevbasis4.3-core02 (>= 4.3.0.0.alpha0), lodevbasis4.3-core02 (<= 4.3.0.0.alpha0-), lodevbasis4.3-core03 (>= 4.3.0.0.alpha0), lodevbasis4.3-core03 (<= 4.3.0.0.alpha0-), lodevbasis4.3-core04 (>= 4.3.0.0.alpha0), lodevbasis4.3-core04 (<= 4.3.0.0.alpha0-), lodevbasis4.3-core05 (>= 4.3.0.0.alpha0), lodevbasis4.3-core05 (<= 4.3.0.0.alpha0-), lodevbasis4.3-core06 (>= 4.3.0.0.alpha0), lodevbasis4.3-core06 (<= 4.3.0.0.alpha0-), lodevbasis4.3-core07 (>= 4.3.0.0.alpha0), lodevbasis4.3-core07 (<= 4.3.0.0.alpha0-), lodevbasis4.3-images (>= 4.3.0.0.alpha0), lodevbasis4.3-images (<= 4.3.0.0.alpha0-)
+Installed-Size: 2028

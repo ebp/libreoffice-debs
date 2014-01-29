@@ -1,0 +1,12 @@
+[Version]
+AllLanguages=en-US
+BuildVersion=
+buildid=cd527aae72a0b2030d00151e2137b37165c65b96
+ExtensionUpdateURL=http://updateexte.libreoffice.org/ExtensionUpdateService/check.Update
+ProductMajor=430
+ProductMinor=
+ReferenceOOoMajorMinor=3.4
+UpdateID=LibreOfficeDev_4_en-US
+UpdateURL=http://update.libreoffice.org/check.php?pkgfmt=deb
+UpdateUserAgent=<PRODUCT> (${buildid}; ${_OS}; ${_ARCH}; BundledLanguages=${AllLanguages})
+Vendor=The Document Foundation
