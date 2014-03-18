@@ -32,6 +32,7 @@ git clone git://github.com/LibreOffice/core.git libreoffice-core
 # git clone git://anongit.freedesktop.org/libreoffice/core libreoffice-core
 
 cd libreoffice-core
+git submodule update
 
 # run the configure script - Ubuntu's doxygen is too old
 ./autogen.sh --with-distro=LibreOfficeLinux --without-doxygen --disable-kde --enable-epm --with-package-format=deb
